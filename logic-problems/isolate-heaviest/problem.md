@@ -1,0 +1,1 @@
+* Given a traditional balancing scale and 9 marbles of identical dimensions and presentation, describe a process to identify the heaviest of the 9 marbles.
