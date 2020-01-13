@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.curriculeon</groupId>
-    <artifactId>maven-template-project</artifactId>
+    <artifactId>teksystems-assessment</artifactId>
     <version>1.0</version>
 
     <build>
