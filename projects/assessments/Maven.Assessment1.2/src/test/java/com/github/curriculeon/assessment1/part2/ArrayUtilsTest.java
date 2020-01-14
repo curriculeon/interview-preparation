@@ -30,7 +30,7 @@ public class ArrayUtilsTest {
         Integer[] inputArray = {1, 2, 7, 8, 4, 5, 7, 0, 9, 8, 7};
 
         // When
-        Integer[] actual = (Integer[]) ArrayUtils.removeValue(inputArray, valueToRemove);
+        Object[] actual = ArrayUtils.removeValue(inputArray, valueToRemove);
 
         // Then
         UnitTestingUtils.assertArrayEquality(expected, actual);
@@ -71,7 +71,7 @@ public class ArrayUtilsTest {
         Integer[] expected = {1,1,1,2,2,2,3,3,3,4,4,4};
 
         // When
-        Integer[] actual = (Integer[]) ArrayUtils.mergeArrays(array1, array2);
+        Object[] actual = ArrayUtils.mergeArrays(array1, array2);
 
         // Then
         UnitTestingUtils.assertArrayEquality(expected, actual);
