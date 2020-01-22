@@ -1,7 +1,11 @@
 * What is a variable?
 * What is a literal?
+* What is an operator?
+* What is a procedure?
 * what is a function?
+* What is an instruction?
 * What is encapsulation?
+
 
 * what is a method?
 * What is the advantage of a method belonging to an object?
@@ -12,6 +16,7 @@
 	* behavior
 
 
+* Describe an object's behavioral intention
 * What is a method signature
 * What is method overloading
 * What is method overriding
