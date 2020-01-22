@@ -1,16 +1,16 @@
 * What is a variable?
 * What is a literal?
 * What is an operator?
-* What is a procedure?
-* what is a function?
 * What is an instruction?
+* What is a procedure?
+* What is a function?
 * What is encapsulation?
 
 
 * what is a method?
 * What is the advantage of a method belonging to an object?
 * What is object orientation?
-* what is an object
+* What is an object
 	* state
 	* identity
 	* behavior
