@@ -23,6 +23,10 @@
 * What is object instantitaion?
 
 
+* What is Exception handling?
+
+
+
 
 ## Object Orientation
 
@@ -58,13 +62,15 @@
 * What is abstracting?
 
 
+## Data Structures
+
 * What is a map?
 * What is a HashMap?
 * What is a TreeMap?
 
 
-* What is Exception handling?
 
+## Database Management Systems
 * What is a SQL join?
 
 
