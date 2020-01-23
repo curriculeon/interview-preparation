@@ -1,4 +1,11 @@
-## Procedural Programming Questions  
+# Live Interview Questions
+* **Purpose** - To familiarize students with foundational definitions for future interviews
+* **Objective** - To prompt students with fundamental definition questions for them to build on in future interviews
+* **Description**
+
+##
+
+#### Procedural Programming Questions  
 * What is a variable?
 	* A placeholder in memory for a literal value
 * What is a literal?
@@ -28,7 +35,7 @@
 
 
 
-## Object Orientation
+#### Object Orientation
 
 * What is a method?
 	* a function which belongs to a class
@@ -62,7 +69,7 @@
 * What is abstracting?
 
 
-## Data Structures
+#### Data Structures
 
 * What is a map?
 * What is a HashMap?
@@ -70,7 +77,7 @@
 
 
 
-## Database Management Systems
+#### Database Management Systems
 * What is a SQL join?
 
 
@@ -78,7 +85,7 @@
 
 
 
-## Personal Tips
+#### Personal Tips
 
 Don't be afraid to redirect
 Don't be afraid to break down the problem
