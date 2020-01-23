@@ -1,22 +1,37 @@
 * What is a variable?
+	* A placeholder in memory for a literal value
 * What is a literal?
+	* the value to be stored by a variable
 * What is an instruction?
-	* A single segment of code, containing steps for computer to execute
+	* single segment of code, containing steps for computer to execute
 * What is an algorithm?
 	* Abstract step by step approach to arrive at a solution
 * What is pseudocode?
+	* Code-like presentation of step by step approach to arrive at a solution
 * What is an operator?
+	* symbol that denotes an operation to be done
 * What is a function?
+	* series of instructions to be done
 * What is encapsulation?
+	* mechanism of wrapping the data as a single unit
+
+
+
 
 
 * What is a method?
+	* a function which belongs to a class
 * What is the advantage of a method belonging to an object?
+	* readability
 * What is object orientation?
+	* the notion that all variables are an to be treated as an object
 * What is an object?
 	* state
 	* identity
 	* behavior
+
+
+
 
 
 
@@ -67,3 +82,6 @@ How well do you think you demonstrated to the interviewer, the extent of you kno
 
 
 
+notice the build
+
+self incriminate on encapsulation
