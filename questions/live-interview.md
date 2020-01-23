@@ -1,3 +1,4 @@
+## Procedural Programming Questions  
 * What is a variable?
 	* A placeholder in memory for a literal value
 * What is a literal?
@@ -17,12 +18,19 @@
 
 
 
+* What is variable declaration?
+* What is variable initialization?
+* What is object instantitaion?
 
+
+
+## Object Orientation
 
 * What is a method?
 	* a function which belongs to a class
 * What is the advantage of a method belonging to an object?
 	* readability
+	* enables state retention of an object
 * What is object orientation?
 	* the notion that all variables are an to be treated as an object
 * What is an object?
@@ -34,11 +42,6 @@
 
 
 
-
-
-* What is variable declaration?
-* What is variable initialization?
-* What is object instantitaion?
 
 * Describe an object's behavioral intention.
 * What is a method signature?
