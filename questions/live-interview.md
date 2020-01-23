@@ -78,7 +78,7 @@
 
 
 
-
+## Personal Tips
 
 Don't be afraid to redirect
 Don't be afraid to break down the problem
