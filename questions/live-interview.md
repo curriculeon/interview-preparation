@@ -83,5 +83,4 @@ How well do you think you demonstrated to the interviewer, the extent of you kno
 
 
 notice the build
-
-self incriminate on encapsulation
+self incriminate
